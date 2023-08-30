@@ -1,0 +1,1 @@
+These are input and auxiliary files to the RAMP stochastic demand estimation framework. The model is available here: https://github.com/RAMP-project/RAMP
