@@ -1,0 +1,2 @@
+These scripts were used in the Zooniverse citizen science project Power to the People (https://www.zooniverse.org/projects/alycialeonard/power-to-the-people). 
+They include scripts to prepare imagery, process and analyze annotation data, and plot results.
